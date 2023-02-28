@@ -1,9 +1,10 @@
 
 # PARK DA WON 🧸
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaxx0ne&count_bg=%23FFBFC3&title_bg=%23FF86A6&icon=&icon_color=%23C9C9C9&title=HITS%F0%9F%94%A5&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaxx0ne&count_bg=%23FFBFC3&title_bg=%23FF86A6&icon=&icon_color=%23C9C9C9&title=HITS%F0%9F%94%A5&edge_flat=false)    
 
+
+![Dawon's GitHub stats](https://github-readme-stats.vercel.app/api?username=daxx0ne&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcn07253)](https://solved.ac/jcn07253/)
-![Dawon's GitHub stats](https://github-readme-stats.vercel.app/api?username=daxx0ne&show_icons=true&theme=dracula)
 
 
 # Skills 🌈
