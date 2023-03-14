@@ -1,9 +1,13 @@
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaxx0ne&count_bg=%23FFBFC3&title_bg=%23FF86A6&icon=&icon_color=%23C9C9C9&title=HITS%F0%9F%94%A5&edge_flat=false)    
+  
+
 <div align="center">
 
 # PARK DA WON 🧸
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaxx0ne&count_bg=%23FFBFC3&title_bg=%23FF86A6&icon=&icon_color=%23C9C9C9&title=HITS%F0%9F%94%A5&edge_flat=false)    
-
+  </div>
+  
+<div align="center">
+  
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daxx0ne&show_icons=true&theme=buefy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxx0ne&layout=compact&theme=buefy">
