@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FCC2CF,100:A5D7F8&height=280&section=header&text=Dawon's%20Github🧸&fontSize=60&fontColor=252525)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FDFDBD,100:CBFBEE&height=280&section=header&text=Dawon's%20Github🧸&fontSize=60&fontColor=252525)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaxx0ne&count_bg=%23FFBFC3&title_bg=%23FF86A6&icon=&icon_color=%23C9C9C9&title=HITS%F0%9F%94%A5&edge_flat=false)    
 
@@ -38,6 +38,6 @@
 </p>
   
   
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FCC2CF,100:A5D7F8&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FDFDBD,100:CBFBEE&height=200&section=footer)
   
 </div>
