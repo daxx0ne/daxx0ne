@@ -33,8 +33,8 @@
 #
     
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daxx0ne&show_icons=true&theme=buefy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxx0ne&layout=compact&theme=buefy">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daxx0ne&show_icons=true&theme=buefy">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daxx0ne&layout=compact&theme=buefy">
 </p>
   
   
