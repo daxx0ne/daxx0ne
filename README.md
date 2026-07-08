@@ -2,11 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:DDC9F8,100:CBFBEE&height=280&section=header&text=Dawon's%20Github%20🧸&fontSize=60&fontColor=252525)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaxx0ne&count_bg=%23FFBFC3&title_bg=%23FF86A6&icon=&icon_color=%23C9C9C9&title=HITS%F0%9F%94%A5&edge_flat=false)    
-
- 
-
-#
 ### 🎖️ Platforms & Languages🎖️
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
